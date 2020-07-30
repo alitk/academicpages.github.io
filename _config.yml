@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ali Kasgari's Personal Blog"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ali Taleb Zadeh Kasgari"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ali Taleb Zadeh Kasgari"
   avatar           : "profile.jpg"
-  bio              : "I am Ph.D. student doing research on Maching Learning at Virginia Tech."
+  bio              : "I am Ph.D. student doing research on Maching Learning at Virginia Tech. Please contact me at alitk [at] vt.edu."
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5bd5sR4AAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
